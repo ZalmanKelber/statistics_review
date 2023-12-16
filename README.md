@@ -1,0 +1,1 @@
+This repository contains some jupyter notebooks used in the very introductory level [google course on statistics from coursera](https://www.coursera.org/learn/the-power-of-statistics).  Most of the work for the course was completed on online in-browser jupyter notebooks but, for convenience, I completed some locally
